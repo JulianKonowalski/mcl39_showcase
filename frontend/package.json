@@ -27,6 +27,8 @@
     "webpack-dev-server": "^5.2.4"
   },
   "dependencies": {
+    "jeasings": "^0.0.16",
+    "postprocessing": "^6.39.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "three": "^0.184.0"

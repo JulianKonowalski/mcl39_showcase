@@ -13,6 +13,7 @@ module.exports = {
         extensions: [".tsx", ".jsx", ".js", ".ts"]
     },
     module: {
+        exprContextCritical: false,
         rules: [
             {
                 test: /\.jsx$/,

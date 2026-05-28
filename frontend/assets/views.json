@@ -1,0 +1,32 @@
+{
+    "views": [
+        {
+            "camera_position": [8.0, 0.8, 0.0],
+            "target_position": [0.0, 0.8, 0.0]
+        },
+        {
+            "camera_position": [1.0, 0.38, 3.51],
+            "target_position": [1.0, 0.38, 1.51]
+        },
+        {
+            "camera_position": [3.0, 0.38, 2.11],
+            "target_position": [1.0, 0.38, 2.11]
+        },
+        {
+            "camera_position": [0.28, 0.96, -0.95],
+            "target_position": [0.0, 0.61, 0.25]
+        },
+        {
+            "camera_position": [3.0, 0.35, -2.35],
+            "target_position": [1.0, 0.35, -2.35]
+        },
+        {
+            "camera_position": [0.0, 0.51, -5.11],
+            "target_position": [0.0, 0.51, -2.11]
+        },
+        {
+            "camera_position": [4, 2, 5],
+            "target_position": [0, 0.5, 0.0]
+        }
+    ]
+}
